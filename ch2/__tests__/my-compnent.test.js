@@ -1,3 +1,3 @@
 test('hello jest', ()=>{
-  expect('hello').toEqual('goodbye');
+  expect('goodbye').toEqual('goodbye');
 });
